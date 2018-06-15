@@ -11,3 +11,14 @@ This repository saves our works in Python Teaching.
 ---
 
 均使用 tkinter 绘制 GUI，请注意运行时的兼容。
+
+---
+
+成员如下：
+| 姓名 | 学号 | ID |
+| :-: | :-: | :-: |
+| 曾家龙 | 2017210293| TsangKalung |
+| 常征 | 2017210282 | changzheng123 |
+| 徐文祺 | 2017210 | ChuiManKei |
+| 苏江涛 | 2017210 | jucksu |
+| 李百真 | | lingbianzhi |
