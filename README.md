@@ -15,10 +15,11 @@ This repository saves our works in Python Teaching.
 ---
 
 成员如下：
-| 姓名 | 学号 | ID |
-| :-: | :-: | :-: |
-| 曾家龙 | 2017210293| TsangKalung |
-| 常征 | 2017210282 | changzheng123 |
-| 徐文祺 | 2017210288 | ChuiManKei |
-| 苏江涛 | 2017210298 | jucksu |
-| 李百真 | 2017210283 | lingbianzhi |
+
+|  姓名  |    学号    |      ID       |
+| :----: | :--------: | :-----------: |
+| 曾家龙 | 2017210293 |  TsangKalung  |
+|  常征  | 2017210282 | changzheng123 |
+| 徐文祺 | 2017210288 |  ChuiManKei   |
+| 苏江涛 | 2017210298 |    jucksu     |
+| 李百真 | 2017210283 |  lingbianzhi  |
