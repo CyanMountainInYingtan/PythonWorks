@@ -3,6 +3,7 @@
 This repository saves our works in Python Teaching.
 
 本项目为 2018 年春季 Python 课程作业。
+
 有如下两个子项目：
 
 - 编写五子棋游戏（**PyGobang**）
